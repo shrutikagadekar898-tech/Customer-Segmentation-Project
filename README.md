@@ -109,8 +109,11 @@ Customer-Segmentation-Project
 │   └── Customer_Segmentation_Dashboard.pbix
 │
 ├── Screenshots
-│   └── main_dashboard.png
------
+│   └── dashboard.png
+│
+└── requirements.txt
+```
+
 ---
 
 ## How to Run
