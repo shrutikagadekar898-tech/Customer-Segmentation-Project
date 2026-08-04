@@ -110,7 +110,7 @@ Customer-Segmentation-Project
 │
 ├── Screenshots
 │   └── main_dashboard.png
-
+-----
 ---
 
 ## How to Run
